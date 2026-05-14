@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
   project: web-service-port
-  appName: webservice-test-app
+  appName: webservice-port-2
   config:
     codeReview:
       summarize: true
